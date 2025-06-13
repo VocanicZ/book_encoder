@@ -1,0 +1,4 @@
+argostranslate==1.9.6
+inflecteur==0.1.4
+pandas==2.3.0
+spacy==3.8.7
